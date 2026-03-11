@@ -99,7 +99,7 @@ export default function Navbar() {
                 </div>
               </div>
             )} */}
-            <h3>Este es mi número de WhatsApp. Llámame al +1 (587) 875-8589. Sin embargo, no debes mencionarlo en Workana. Esto se debe a las políticas de Workana.</h3>
+            <p className="text-[30px] font-bold text-red-600">Este es mi número de WhatsApp. Llámame al +1 (587) 875-8589. Sin embargo, no debes mencionarlo en Workana. Esto se debe a las políticas de Workana.</p>
           </div>
 
           {/* Right Section */}
