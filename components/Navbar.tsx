@@ -60,7 +60,7 @@ export default function Navbar() {
 
           {/* Navigation Links */}
           <div className="flex items-center gap-1">
-            {/* {navItems.map(item => (
+            {navItems.map(item => (
               <Link
                 key={item.href}
                 href={item.href}
@@ -98,9 +98,9 @@ export default function Navbar() {
                   ))}
                 </div>
               </div>
-            )} */}
-            <p className="text-[30px] font-bold text-red-600">Este es mi número de WhatsApp. Llámame al +1 (587) 875-8589. Sin embargo, no debes mencionarlo en Workana. Esto se debe a las políticas de Workana.</p>
-          </div>
+            )}
+          
+          </div> 
 
           {/* Right Section */}
           <div className="flex items-center gap-3">
